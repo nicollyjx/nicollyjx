@@ -19,7 +19,7 @@ Minha trajetória combina **construção civil**, **tecnologia** e **análise de
 
 ## 🛠️ Tecnologias e Ferramentas
 
-![AutoCAD](https://img.shields.io/badge/-AutoCAD-E7352C?style=flat&logo=autodesk&logoColor=white)   ![Revit](https://img.shields.io/badge/-Revit-007ACC?style=flat&logo=autodesk&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  
+![AutoCAD](https://img.shields.io/badge/-AutoCAD-E7352C?style=flat&logo=autodesk&logoColor=white)   ![Revit](https://img.shields.io/badge/-Revit-007ACC?style=flat&logo=autodesk&logoColor=white)  ![Power BI](https://img.shields.io/badge/-Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)  ![MS Project](https://img.shields.io/badge/-MS%20Project-217346?style=flat&logo=microsoftproject&logoColor=white)  
 
 ---
 
